@@ -21,8 +21,8 @@ Badge](https://visitor-badge.glitch.me/badge?page_id=achmadhadikurnia.visitor-ba
 [Twitter](https://twitter.com/imachmadhadi),
 [LinkedIn](https://www.linkedin.com/in/achmadhadikurnia), or
 [Email](mailto:imachmadhadikurnia@gmail.com).
-- 😄 Pronouns: He / Him.
-- ⚡ Fun fact: Nope.
+<!-- - 😄 Pronouns: He / Him. -->
+<!-- - ⚡ Fun fact: Nope. -->
 
 ## Need a awesome hosting products? 🛒
 Take a look to Niagahoster Best Product on https://nh.co.id/achmadhadikurnia or check out these links below.
