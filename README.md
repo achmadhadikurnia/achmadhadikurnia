@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm [Achmad Hadi Kurnia](https://achmadhadikurnia.com). I hope you can find
+I'm [Achmad Hadi Kurnia](https://achmadhadikurnia.github.io). I hope you can find
 useful stuff here 😉
 
 ![Follower Badge](https://img.shields.io/github/followers/achmadhadikurnia)
