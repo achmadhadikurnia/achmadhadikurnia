@@ -15,7 +15,7 @@ Badge](https://visitor-badge.glitch.me/badge?page_id=achmadhadikurnia.visitor-ba
 - 💬 Ask me about anything related to PHP, Laravel and JavaScript.
 - 📫 Reach me out through my
 [Blog](https://achmadhadikurnia.com),
-[Youtube](https://www.youtube.com/channel/UCURR_HyWEUJRBqo23L-8_VA),
+[Youtube](https://www.youtube.com/@achmadhadikurnia),
 [Instagram](https://instagram.com/achmadhadikurnia),
 [TikTok](https://tiktok.com/@achmadhadikurnia),
 [Twitter](https://twitter.com/imachmadhadi),
