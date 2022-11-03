@@ -28,8 +28,6 @@ Badge](https://visitor-badge.glitch.me/badge?page_id=achmadhadikurnia.visitor-ba
 ## ☕ My popular repositories:
  -->
 
----
-
 ## Github Stats ✨
 [![Achmad Hadi Kurnia's GitHub
 Stats](https://github-readme-stats.vercel.app/api?username=achmadhadikurnia&show_icons=true&count_private=true&show_owner=true)](https://github.com/achmadhadikurnia)
