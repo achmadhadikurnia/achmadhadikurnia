@@ -8,7 +8,7 @@ Badge](https://visitor-badge.glitch.me/badge?page_id=achmadhadikurnia.visitor-ba
 
 - 🔭 I’m currently at [Kanekes](https://kanekes.com) as a Founder & CEO. Also as
   a Civil Servant of BKPSDM of Lebak Regency.
-- 🌱 I’m currently learning Machine Learning and DevOps.
+- 🌱 I’m currently learning JavaScript, Machine Learning and DevOps.
 - 👯 I’m looking to collaborate on any open source projects related to PHP,
   Laravel and JavaScript.
 - 🤔 I’m looking for help with developing open source software at [Kanekes](https://github.com/kanekescom).
