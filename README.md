@@ -29,9 +29,10 @@ Feel free to contact me by [Email](mailto:imachmadhadikurnia@gmail.com).
 
 ## 🛒 Need an awesome hosting products?
 Take a look to Niagahoster Best Product on https://nh.co.id/achmadhadikurnia or check out these links below.
-- 🔥 [Unlimited Hosting](https://www.niagahoster.co.id/ref/68898?r=hosting-murah)
-- ☁️ [Cloud Hosting](https://www.niagahoster.co.id/ref/68898?r=cloud-hosting)
-- 🌐 [Simple Wordpress](https://www.niagahoster.co.id/ref/68898?r=simple-wordpress)
+- ⚡ [Unlimited
+  Hosting](https://www.niagahoster.co.id/ref/68898?r=hosting-murah) ➡️ discount 75% 🔥
+- ☁️ [Cloud Hosting](https://www.niagahoster.co.id/ref/68898?r=cloud-hosting) ➡️ discount 80% 🔥
+- 🌐 [Simple Wordpress](https://www.niagahoster.co.id/ref/68898?r=simple-wordpress) ➡️ discount 75% 🔥
 - ✉️ [Mail Hosting](https://www.niagahoster.co.id/ref/68898?r=email-hosting)
 
 ## Languages and Tools
