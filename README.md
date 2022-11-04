@@ -35,40 +35,40 @@ Take a look to Niagahoster Best Product on https://nh.co.id/achmadhadikurnia or 
 - ✉️ [Mail Hosting](https://www.niagahoster.co.id/ref/68898?r=email-hosting)
 
 ## Languages and Tools
-<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
-<img alt="Docker" width="26px"
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
+<img align="left" alt="Docker" width="26px"
 src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"
 />
-<img alt="PHP" width="26px"
+<img align="left" alt="PHP" width="26px"
 src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"
 />
-<img alt="Laravel" width="26px"
+<img align="left" alt="Laravel" width="26px"
 src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"
 />
-<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img alt="Bootstrap" width="26px"
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
+<img align="left" alt="Bootstrap" width="26px"
 src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"
 />
-<img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"
 />
-<img alt="Flutter" width="26px"
+<img align="left" alt="Flutter" width="26px"
 src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"
 />
-<img alt="Wordpress" width="26px"
+<img align="left" alt="Wordpress" width="26px"
 src="https://raw.githubusercontent.com/github/explore/main/topics/wordpress/wordpress.png"
 />
-<img alt="MikroTik" width="26px"
+<img align="left" alt="MikroTik" width="26px"
 src="https://raw.githubusercontent.com/github/explore/main/topics/mikrotik/mikrotik.png"
 />
-<img alt="MySql" width="26px"
+<img align="left" alt="MySql" width="26px"
 src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"
 />
-<img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
-<img alt="Markdown" width="26px"
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
+<img align="left" alt="Markdown" width="26px"
 src="https://raw.githubusercontent.com/github/explore/main/topics/markdown/markdown.png"
 />
 
