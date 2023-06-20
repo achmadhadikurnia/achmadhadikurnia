@@ -8,7 +8,7 @@ Badge](https://visitor-badge.glitch.me/badge?page_id=achmadhadikurnia.visitor-ba
 
 - 🔭 I’m currently at [Kanekes](https://kanekes.com) as a Founder & CEO. Also as
   a Civil Servant of BKPSDM of Lebak Regency.
-- 🌱 I’m currently learning JavaScript, Machine Learning and DevOps.
+- 🌱 I’m currently learning JavaScript, AI and Machine Learning.
 - 👯 I’m looking to collaborate on any open source projects related to PHP,
   Laravel and JavaScript.
 - 🤔 I’m looking for help with developing open source software at [Kanekes](https://github.com/kanekescom).
@@ -28,7 +28,7 @@ Badge](https://visitor-badge.glitch.me/badge?page_id=achmadhadikurnia.visitor-ba
 Feel free to contact me by [Email](mailto:imachmadhadikurnia@gmail.com).
 
 ## 🛒 Need an awesome hosting products?
-Take a look to Niagahoster Best Product on https://nh.co.id/achmadhadikurnia or check out these links below.
+Take a look to Niagahoster Best Product. See the links below.
 - ⚡ [Unlimited
   Hosting](https://www.niagahoster.co.id/ref/68898?r=hosting-murah) ➡️ discount 75% 🔥
 - ☁️ [Cloud Hosting](https://www.niagahoster.co.id/ref/68898?r=cloud-hosting) ➡️ discount 80% 🔥
