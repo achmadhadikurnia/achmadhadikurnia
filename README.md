@@ -11,7 +11,7 @@ Badge](https://visitor-badge.glitch.me/badge?page_id=achmadhadikurnia.visitor-ba
 - 🌱 I’m currently learning JavaScript, AI and Machine Learning.
 - 👯 I’m looking to collaborate on any open source projects related to PHP,
   Laravel and JavaScript.
-- 🤔 I’m looking for help with developing open source software at [Kanekes](https://github.com/kanekescom).
+- 🤔 I'm looking for help developing open source software at [Kanekes](https://github.com/kanekescom).
 - 💬 Ask me about anything related to PHP, Laravel and JavaScript.
 - 📫 Reach me out through my
 [Blog](https://achmadhadikurnia.com),
