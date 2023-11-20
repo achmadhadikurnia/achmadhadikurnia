@@ -1,28 +1,35 @@
-# Hi there 👋
-I'm [Achmad Hadi Kurnia](https://achmadhadikurnia.github.io). I hope you can find
-useful stuff here 😉
+# 👋 Hi there, I'm Achmad Hadi Kurnia
+Call me Hadi. I hope you can find useful stuff here 😉
 
 ![Follower Badge](https://img.shields.io/github/followers/achmadhadikurnia)
-![Visitor
-Badge](https://visitor-badge.glitch.me/badge?page_id=achmadhadikurnia.visitor-badge)
 
-- 🔭 I’m currently at [Kanekes](https://kanekes.com) as a Founder & CEO. Also as
-  a Civil Servant of BKPSDM of Lebak Regency.
-- 🌱 I’m currently learning JavaScript, AI and Machine Learning.
-- 👯 I’m looking to collaborate on any open source projects related to PHP,
-  Laravel and JavaScript.
-- 🤔 I'm looking for help developing open source software at [Kanekes](https://github.com/kanekescom).
-- 💬 Ask me about anything related to PHP, Laravel and JavaScript.
+- 👨‍💻 I am a Software Engineer.
+- 🔭 Founder and CEO of [Kanekes](https://github.com/kanekescom). Also a Civil Servant at [BKPSDM Lebak Regency](https://bkpsdm.lebakkab.go.id).
+- 🌍 Based in Rangkasbitung, Indonesia.
+- 🚀 Love creating software that solves problems in a simple way and sharing what I learn along the way.
+- 🌱 Currently learning JavaScript, Flutter, Go, AI, and Machine Learning.
 - 📫 Reach me out through my
 [Blog](https://achmadhadikurnia.com),
-[Youtube](https://www.youtube.com/@achmadhadikurnia),
-[Instagram](https://instagram.com/achmadhadikurnia),
-[TikTok](https://tiktok.com/@achmadhadikurnia),
-[Twitter](https://twitter.com/imachmadhadi),
-[LinkedIn](https://www.linkedin.com/in/achmadhadikurnia), or
+[LinkedIn](https://s.id/hadilinkedin),
+[Youtube](https://s.id/hadiyt),
+[Instagram](https://s.id/hadiig),
+[TikTok](https://s.id/haditiktok),
+[X/Twitter](https://s.id/haditwitter), or
 [Email](mailto:imachmadhadikurnia@gmail.com).
-<!-- - 😄 Pronouns: He / Him. -->
-<!-- - ⚡ Fun fact: Nope. -->
+
+<!--## Reach me out
+<p align="center">
+  <a href="[http://twitter.com/a](https://s.id/haditwitter)">
+    <img src="https://img.shields.io/twitter/follow/imachmadhadi?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+    <a href="h[ttps://www.linkedin.com/in/achmadhadikurniar](https://s.id/hadilinkedin)">
+    <img src="https://img.shields.io/badge/LinkedIn-450-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
+  </a>
+    <a href="https://achmadhadikurnia.github.io/blog/1/">
+    <img src="https://img.shields.io/badge/Personal-Blog-orange?label=My&logo=mail&style=for-the-badge" alt="Blog link" />
+  </a>
+</p>
+-->
 
 ## 💼 Any freelance work?
 Feel free to contact me by [Email](mailto:imachmadhadikurnia@gmail.com).
@@ -75,12 +82,21 @@ src="https://raw.githubusercontent.com/github/explore/main/topics/markdown/markd
 <br />
 <br />
 
-<!--
-## ☕ My popular repositories:
- -->
-
 ## Github Stats ✨
-[![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=achmadhadikurnia&show_icons=true&count_private=true&show_owner=true)](https://github.com/achmadhadikurnia)
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadhadikurnia&layout=compact)](https://github.com/achmadhadikurnia)
+<div>
+<a href="http://www.github.com/achmadhadikurnia">
+<img src="https://github-readme-stats.vercel.app/api?username=achmadhadikurnia&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="Achmad Hadi Kurnia's GitHub stats" />
+</a>
+</div>
+
+<div>
+<a href="http://www.github.com/achmadhadikurnia">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=achmadhadikurnia&stroke=64748b&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=64748b&currStreakLabel=0891b2&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" />
+</a>
+</div>
+
+<div>
+<a href="http://www.github.com/achmadhadikurnia">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmadhadikurnia&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=64748b&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true&layout=compact" />
+</a>
+</div>
