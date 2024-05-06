@@ -28,6 +28,10 @@
 
 <h2 align="left">Blogs posts</h2>
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Rust: A New Era in Systems Programming](https://achmadhadikurnia.medium.com/getting-started-with-rust-a-new-era-in-systems-programming-92e7165f75b8?source=rss-95cb7286dc92------2)
+- [Microsoft Service Outages: Unraveling the Issues and Finding Solutions](https://achmadhadikurnia.medium.com/microsoft-service-outages-unraveling-the-issues-and-finding-solutions-ad3984b99a0e?source=rss-95cb7286dc92------2)
+- [How to Remote Ubuntu via SSH](https://achmadhadikurnia.medium.com/how-to-remote-ubuntu-via-ssh-a91ba532582b?source=rss-95cb7286dc92------2)
+- [My iPhone Fell and Caught Fire](https://achmadhadikurnia.medium.com/my-iphone-fell-and-caught-fire-1e0a8676f2f3?source=rss-95cb7286dc92------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Connect with me:</h2>
