@@ -27,6 +27,7 @@
 - JavaScript
 
 <h2 align="left">Blogs posts</h2>
+
 <!-- BLOG-POST-LIST:START -->
 - [Getting Started with Rust: A New Era in Systems Programming](https://achmadhadikurnia.medium.com/getting-started-with-rust-a-new-era-in-systems-programming-92e7165f75b8?source=rss-95cb7286dc92------2)
 - [Microsoft Service Outages: Unraveling the Issues and Finding Solutions](https://achmadhadikurnia.medium.com/microsoft-service-outages-unraveling-the-issues-and-finding-solutions-ad3984b99a0e?source=rss-95cb7286dc92------2)
