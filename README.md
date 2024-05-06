@@ -1,32 +1,30 @@
-# Hi there 👋 I'm Achmad Hadi Kurnia
-Call me Hadi. I hope you can find useful stuff here 😉
+# Hi there 👋 I'm **Achmad Hadi Kurnia**
+Call me **Hadi**. I hope you can find useful stuff here 😉
 
 [![Github Profile Views Badge](https://komarev.com/ghpvc/?username=achmadhadikurnia)](https://github.com/achmadhadikurnia)
 [![Github Follower Badge](https://img.shields.io/github/followers/achmadhadikurnia)](https://github.com/achmadhadikurnia)
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently at [Kanekes](https://kanekes.com) as a Founder & CEO. Also as
-  a Civil Servant of BKPSDM of Lebak Regency.
-- 🌱 I’m currently learning JavaScript, AI and Machine Learning.
-- 👯 I’m looking to collaborate on any open source projects related to PHP,
-  Laravel and JavaScript.
-- 🤔 I'm looking for help developing open source software at [Kanekes](https://github.com/kanekescom).
-- 💬 Ask me about anything related to PHP, Laravel and JavaScript.
-- 📫 Reach me out through my
-[Blog](https://achmadhadikurnia.com),
-[Youtube](https://www.youtube.com/@achmadhadikurnia),
-[Instagram](https://instagram.com/achmadhadikurnia),
-[TikTok](https://tiktok.com/@achmadhadikurnia),
-[Twitter](https://twitter.com/imachmadhadi),
-[LinkedIn](https://www.linkedin.com/in/achmadhadikurnia), or
-[Email](mailto:imachmadhadikurnia@gmail.com).
+- 👨‍💻 I am a **Software Developer**.
+- 🔭 Founder and CEO of [Kanekes](https://github.com/kanekescom). Also a Civil Servant at [BKPSDM Lebak Regency](https://bkpsdm.lebakkab.go.id).
+- 🌍 Based in Lebak, Banten - Indonesia.
+- 🚀 Love creating software that solves problems in a simple way and sharing what I learn along the way.
+<!-- - 🌱 Currently learning **Python**, **Rust** and **AI**/**ML**. -->
+<!-- - 📫 Reach me out through my
+[**Blog**](https://achmadhadikurnia.com),
+[**LinkedIn**](https://s.id/hadilinkedin),
+[**Youtube**](https://s.id/hadiyt),
+[**Instagram**](https://s.id/hadiig),
+[**TikTok**](https://s.id/haditiktok),
+[**X/Twitter**](https://s.id/haditwitter), or
+[**Email**](mailto:imachmadhadikurnia@gmail.com). -->
 <!-- - 😄 Pronouns: He / Him. -->
 <!-- - ⚡ Fun fact: Nope. -->
 
 ## 💻️ Tech Stacks I Love
 - Laravel
-- NodeJS
+- JavaScript
 
 ## 💻️ Now, I'm Learning
 - Python
