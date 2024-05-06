@@ -51,7 +51,8 @@
 <h2 align="left">💼 Any freelance work?</h2>
 <p>Feel free to contact me by <a href="mailto:imachmadhadikurnia@gmail.com">imachmadhadikurnia@gmail.com</a>.</p>
 
-<h2 align="left">Support:</h2>
+<h2 align="left">Support</h2>
+<p>Consider buying me a coffee to refuel while I'm coding. 🎉</p>
 <p><a href="https://www.buymeacoffee.com/achmadhadikurnia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="achmadhadikurnia" /></a></p><br><br>
 
 
