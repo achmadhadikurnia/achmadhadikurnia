@@ -1,11 +1,11 @@
-# Hi there 👋
-I'm [Achmad Hadi Kurnia](https://achmadhadikurnia.github.io). I hope you can find
-useful stuff here 😉
+# Hi there 👋 I'm Achmad Hadi Kurnia
+Call me Hadi. I hope you can find useful stuff here 😉
 
-![Follower Badge](https://img.shields.io/github/followers/achmadhadikurnia)
-![Visitor
-Badge](https://visitor-badge.glitch.me/badge?page_id=achmadhadikurnia.visitor-badge)
+[![Github Profile Views Badge](https://komarev.com/ghpvc/?username=achmadhadikurnia)](https://github.com/achmadhadikurnia)
+[![Github Follower Badge](https://img.shields.io/github/followers/achmadhadikurnia)](https://github.com/achmadhadikurnia)
 
+
+## 🙋‍♂️ About Me
 - 🔭 I’m currently at [Kanekes](https://kanekes.com) as a Founder & CEO. Also as
   a Civil Servant of BKPSDM of Lebak Regency.
 - 🌱 I’m currently learning JavaScript, AI and Machine Learning.
@@ -24,6 +24,20 @@ Badge](https://visitor-badge.glitch.me/badge?page_id=achmadhadikurnia.visitor-ba
 <!-- - 😄 Pronouns: He / Him. -->
 <!-- - ⚡ Fun fact: Nope. -->
 
+## 💻️ Tech Stacks I Love
+- Laravel
+- NodeJS
+
+## 💻️ Now, I'm Learning
+- Python
+- Rust
+- AI/ML
+
+## 🛠️ Dev Tools I Use
+- Docker
+- GIT
+- VS Code
+
 ## 💼 Any freelance work?
 Feel free to contact me by [Email](mailto:imachmadhadikurnia@gmail.com).
 
@@ -35,52 +49,22 @@ Take a look to Niagahoster Best Product. See the links below.
 - 🌐 [Simple Wordpress](https://www.niagahoster.co.id/ref/68898?r=simple-wordpress) ➡️ discount 75% 🔥
 - ✉️ [Mail Hosting](https://www.niagahoster.co.id/ref/68898?r=email-hosting)
 
-## Languages and Tools
-<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<img align="left" alt="GitHub" title="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
-<img align="left" alt="Docker" title="Docker" width="26px"
-src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"
-/>
-<img align="left" alt="PHP" title="PHP" width="26px"
-src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"
-/>
-<img align="left" alt="Laravel" title="Laravel" width="26px"
-src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"
-/>
-<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img align="left" alt="Bootstrap" title="Bootstrap" width="26px"
-src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"
-/>
-<img align="left" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"
-/>
-<img align="left" alt="Flutter" title="Flutter" width="26px"
-src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png"
-/>
-<img align="left" alt="Wordpress" title="Wordpress" width="26px"
-src="https://raw.githubusercontent.com/github/explore/main/topics/wordpress/wordpress.png"
-/>
-<img align="left" alt="MikroTik" title="MikroTik" width="26px"
-src="https://raw.githubusercontent.com/github/explore/main/topics/mikrotik/mikrotik.png"
-/>
-<img align="left" alt="MySql" title="MySql" width="26px"
-src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"
-/>
-<img align="left" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
-<img align="left" alt="Markdown" title="Markdown" width="26px"
-src="https://raw.githubusercontent.com/github/explore/main/topics/markdown/markdown.png"
-/>
-<br />
-<br />
-
-<!--
-## ☕ My popular repositories:
- -->
+<!-- ## ☕ My popular repositories: -->
 
 ## Github Stats ✨
 [![GitHub
 Stats](https://github-readme-stats.vercel.app/api?username=achmadhadikurnia&show_icons=true&count_private=true&show_owner=true)](https://github.com/achmadhadikurnia)
 [![Top
 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadhadikurnia&layout=compact)](https://github.com/achmadhadikurnia)
+
+## Connect with me
+<p align="left">
+  <a href="https://www.youtube.com/@achmadhadikurnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="achmadhadikurnia" height="30" width="40" /></a>
+  <a href="https://twitter.com/achmadhadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="achmadhadik" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/achmadhadikurnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achmadhadikurnia" height="30" width="40" /></a>
+  <a href="https://instagram.com/achmadhadikurnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achmadhadikurnia" height="30" width="40" /></a>
+  <a href="https://medium.com/@achmadhadikurnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@achmadhadikurnia" height="30" width="40" /></a>
+</p>
+
+## Support me
+<a href="https://www.buymeacoffee.com/achmadhadikurnia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="achmadhadikurnia" /></a>
