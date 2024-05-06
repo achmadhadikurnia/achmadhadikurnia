@@ -35,7 +35,7 @@
 - [My iPhone Fell and Caught Fire](https://achmadhadikurnia.medium.com/my-iphone-fell-and-caught-fire-1e0a8676f2f3?source=rss-95cb7286dc92------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">Connect with me</h2>
 <p align="left">
 <a href="https://twitter.com/achmadhadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="achmadhadik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/achmadhadikurnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achmadhadikurnia" height="30" width="40" /></a>
