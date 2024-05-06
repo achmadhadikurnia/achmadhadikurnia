@@ -1,68 +1,58 @@
-# Hi there 👋 I'm **Achmad Hadi Kurnia**
-Call me **Hadi**. I hope you can find useful stuff here 😉
+<h1 align="center">Hi 👋, I'm Achmad Hadi Kurnia</h1>
+<h2 align="center">A passionate software developer from Indonesia</h2>
 
-[![Github Profile Views Badge](https://komarev.com/ghpvc/?username=achmadhadikurnia)](https://github.com/achmadhadikurnia)
-[![Github Follower Badge](https://img.shields.io/github/followers/achmadhadikurnia)](https://github.com/achmadhadikurnia)
-
-
-## 🙋‍♂️ About Me
-- 👨‍💻 I am a **Software Developer**.
-- 🔭 Founder and CEO of [Kanekes](https://github.com/kanekescom). Also a Civil Servant at [BKPSDM Lebak Regency](https://bkpsdm.lebakkab.go.id).
-- 🌍 Based in Lebak, Banten - Indonesia.
-- 🚀 Love creating software that solves problems in a simple way and sharing what I learn along the way.
-<!-- - 🌱 Currently learning **Python**, **Rust** and **AI**/**ML**. -->
-<!-- - 📫 Reach me out through my
-[**Blog**](https://achmadhadikurnia.com),
-[**LinkedIn**](https://s.id/hadilinkedin),
-[**Youtube**](https://s.id/hadiyt),
-[**Instagram**](https://s.id/hadiig),
-[**TikTok**](https://s.id/haditiktok),
-[**X/Twitter**](https://s.id/haditwitter), or
-[**Email**](mailto:imachmadhadikurnia@gmail.com). -->
-<!-- - 😄 Pronouns: He / Him. -->
-<!-- - ⚡ Fun fact: Nope. -->
-
-## 💻️ Tech Stacks I Love
-- Laravel
-- JavaScript
-
-## 💻️ Now, I'm Learning
-- Python
-- Rust
-- AI/ML
-
-## 🛠️ Dev Tools I Use
-- Docker
-- GIT
-- VS Code
-
-## 💼 Any freelance work?
-Feel free to contact me by [Email](mailto:imachmadhadikurnia@gmail.com).
-
-## 🛒 Need an awesome hosting products?
-Take a look to Niagahoster Best Product. See the links below.
-- ⚡ [Unlimited
-  Hosting](https://www.niagahoster.co.id/ref/68898?r=hosting-murah) ➡️ discount 75% 🔥
-- ☁️ [Cloud Hosting](https://www.niagahoster.co.id/ref/68898?r=cloud-hosting) ➡️ discount 80% 🔥
-- 🌐 [Simple Wordpress](https://www.niagahoster.co.id/ref/68898?r=simple-wordpress) ➡️ discount 75% 🔥
-- ✉️ [Mail Hosting](https://www.niagahoster.co.id/ref/68898?r=email-hosting)
-
-<!-- ## ☕ My popular repositories: -->
-
-## Github Stats ✨
-[![GitHub
-Stats](https://github-readme-stats.vercel.app/api?username=achmadhadikurnia&show_icons=true&count_private=true&show_owner=true)](https://github.com/achmadhadikurnia)
-[![Top
-Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achmadhadikurnia&layout=compact)](https://github.com/achmadhadikurnia)
-
-## Connect with me
 <p align="left">
-  <a href="https://www.youtube.com/@achmadhadikurnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="achmadhadikurnia" height="30" width="40" /></a>
-  <a href="https://twitter.com/achmadhadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="achmadhadik" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/achmadhadikurnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achmadhadikurnia" height="30" width="40" /></a>
-  <a href="https://instagram.com/achmadhadikurnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achmadhadikurnia" height="30" width="40" /></a>
-  <a href="https://medium.com/@achmadhadikurnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@achmadhadikurnia" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=achmadhadikurnia&label=Profile%20views&color=0e75b6&style=flat" alt="Github Profile Views Badge" /> 
+<img src="https://img.shields.io/github/followers/achmadhadikurnia" alt="Github Follower Badge" /> 
 </p>
 
-## Support me
-<a href="https://www.buymeacoffee.com/achmadhadikurnia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="achmadhadikurnia" /></a>
+- 🔭 I’m currently working as a **Civil Servant at BKPSDM Lebak Regency**
+
+- 🌱 I’m currently learning **Rust, JavaScript, Python and AI/ML**
+
+- 👨‍💻 All of my projects are available at [https://achmadhadikurnia.com/projects](https://achmadhadikurnia.com/projects)
+
+- 📝 I regularly write articles on [achmadhadikurnia.com](achmadhadikurnia.com)
+
+- 💬 Ask me about **PHP, Laravel**
+
+- 📫 How to reach me **imachmadhadikurnia@gmail.com**
+
+- 📄 Know about my experiences [https://achmadhadikurnia.com/cv](https://achmadhadikurnia.com/cv)
+
+<h2 align="left">💻️ Tech stacks I love</h2>
+
+- Laravel
+
+- JavaScript
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://twitter.com/achmadhadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="achmadhadik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/achmadhadikurnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="achmadhadikurnia" height="30" width="40" /></a>
+<a href="https://instagram.com/achmadhadikurnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="achmadhadikurnia" height="30" width="40" /></a>
+<a href="https://medium.com/@achmadhadikurnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@achmadhadikurnia" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/achmadhadikurnia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="achmadhadikurnia" height="30" width="40" /></a>
+<a href="/https://achmadhadikurnia.com/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://achmadhadikurnia.com/rss.xml" height="30" width="40" /></a>
+</p>
+
+<h2 align="left">Languages and Tools:</h2>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+<h2 align="left">💼 Any freelance work?</h2>
+<p>Feel free to contact me by <a href="mailto:imachmadhadikurnia@gmail.com">imachmadhadikurnia@gmail.com</a>.</p>
+
+<h2 align="left">Support:</h2>
+<p><a href="https://www.buymeacoffee.com/achmadhadikurnia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="achmadhadikurnia" /></a></p><br><br>
+
+
+<h2 align="left">Github Stats</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achmadhadikurnia&show_icons=true&locale=en&layout=compact" alt="achmadhadikurnia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achmadhadikurnia&show_icons=true&locale=en" alt="achmadhadikurnia" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achmadhadikurnia&" alt="achmadhadikurnia" /></p>
