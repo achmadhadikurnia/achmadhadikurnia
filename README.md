@@ -16,11 +16,10 @@
 
 <h2 align="left">🚀 The projects I have created</h2>
 
-Basically, this repository is my lab for [personal projects](https://github.com/achmadhadikurnia?tab=repositories).
-
-And the actual products I've created are in the [Kanekes Repository](https://github.com/kanekescom). Some of the projects include:
+Basically, this repository is my lab for [personal projects](https://github.com/achmadhadikurnia?tab=repositories). For the actual products I've created are in the [Kanekes Repository](https://github.com/kanekescom). Some of the projects include:
 
 - SIMASN (Indonesian Civil Servant Management Information System)
+- [Chrome Extensions Boilerplate](https://github.com/achmadhadikurnia/chrome-extensions-boilerplate)
 - [Laravel SIASN API Client](https://github.com/kanekescom/laravel-siasn-api)
 - [Laravel Referensi SIASN API Client](https://github.com/kanekescom/laravel-siasn-referensi-api)
 
