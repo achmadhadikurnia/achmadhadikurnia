@@ -18,7 +18,7 @@
 
 Basically, this repository is my lab for [personal projects](https://github.com/achmadhadikurnia?tab=repositories).
 
-And the actual products I've created are in the [Kanekes Repository](https://github.com/achmadhadikurnia?tab=repositories). Some of the projects include:
+And the actual products I've created are in the [Kanekes Repository](https://github.com/kanekescom). Some of the projects include:
 
 - SIMASN (Indonesian Civil Servant Management Information System)
 - [Laravel SIASN API Client](https://github.com/kanekescom/laravel-siasn-api)
