@@ -7,13 +7,22 @@
 </p>
 
 - 🔭 I’m currently working as a **Civil Servant at BKPSDM Lebak Regency**
-- 🔭 I’m currently working as a **Civil Servant at BKPSDM Lebak Regency**
 - 🌱 I’m currently learning **Rust, JavaScript, Python and AI/ML**
 - 👨‍💻 All of my projects are available at [https://achmadhadikurnia.com/projects](https://achmadhadikurnia.com/projects)
 - 📝 I regularly write articles on [achmadhadikurnia.com](achmadhadikurnia.com)
 - 💬 Ask me about **PHP, Laravel**
 - 📫 How to reach me **imachmadhadikurnia@gmail.com**
 - 📄 Know about my experiences [https://achmadhadikurnia.com/cv](https://achmadhadikurnia.com/cv)
+
+<h2 align="left">🚀 The projects I have created</h2>
+
+Basically, this repository is my lab for [personal projects](https://github.com/achmadhadikurnia?tab=repositories).
+
+And the actual products I've created are in the [Kanekes Repository](https://github.com/achmadhadikurnia?tab=repositories). Some of the projects include:
+
+- SIMASN (Indonesian Civil Servant Management Information System)
+- [Laravel SIASN API Client](https://github.com/kanekescom/laravel-siasn-api)
+- [Laravel Referensi SIASN API Client](https://github.com/kanekescom/laravel-siasn-referensi-api)
 
 <h2 align="left">💻️ Tech stacks I love</h2>
 
