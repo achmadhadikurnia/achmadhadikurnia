@@ -28,6 +28,7 @@ And the actual products I've created are in the [Kanekes Repository](https://git
 
 - Laravel
 - JavaScript
+- Python
 - Rust
 
 <h2 align="left">Blogs posts</h2>
