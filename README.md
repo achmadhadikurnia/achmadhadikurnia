@@ -19,8 +19,8 @@
 
 Basically, this repository is my lab for [personal projects](https://github.com/achmadhadikurnia?tab=repositories). For the actual products I've created are in the [Kanekes Repository](https://github.com/kanekescom). Some of the projects include:
 
-- SIMASN (Indonesian Civil Servant Management Information System)
 - [Chrome Extensions Boilerplate](https://github.com/achmadhadikurnia/chrome-extensions-boilerplate)
+- [SIMASN (Indonesian Civil Servant Management Information System)](https://github.com/kanekescom/simasn-app)
 - [Laravel SIASN API Client](https://github.com/kanekescom/laravel-siasn-api)
 - [Laravel Referensi SIASN API Client](https://github.com/kanekescom/laravel-siasn-referensi-api)
 
