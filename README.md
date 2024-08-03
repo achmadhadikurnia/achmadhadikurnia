@@ -109,7 +109,12 @@ Basically, this repository is my lab for [personal projects](https://github.com/
 
 <p>Consider buying me a coffee to refuel while I'm coding. 🎉</p>
 <p>
-    <a href="https://www.buymeacoffee.com/achmadhadikurnia"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="achmadhadikurnia"/></a>
+    <a href="https://www.buymeacoffee.com/achmadhadikurnia">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="achmadhadikurnia"/>
+    </a>
+    <a href="https://saweria.co/achmadhadikurnia">
+        <img src="https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcapy_happy.603c7293.svg&w=384&q=75" height="50" width="210" alt="achmadhadikurnia"/>
+    </a>
 </p>
 
 <h2>🌟 Github Stats</h2>
