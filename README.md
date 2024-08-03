@@ -111,7 +111,6 @@ Basically, this repository is my lab for [personal projects](https://github.com/
 <p>
     <a href="https://www.buymeacoffee.com/achmadhadikurnia"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="achmadhadikurnia"/></a>
 </p>
-<br><br>
 
 <h2>🌟 Github Stats</h2>
 
