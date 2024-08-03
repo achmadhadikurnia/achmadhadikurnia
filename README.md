@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working as a **Civil Servant at BKPSDM Lebak Regency**
 - 🌱 I’m currently learning **Rust, JavaScript, Python and AI/ML**
-- 👨‍💻 All of my projects are available at [https://achmadhadikurnia.com/projects](https://achmadhadikurnia.com/projects)
-- 📝 I regularly write articles on [achmadhadikurnia.com](achmadhadikurnia.com)
+- 👨‍💻 All of my projects are available at [achmadhadikurnia.com/projects](https://achmadhadikurnia.com/projects)
+- 📝 I regularly write articles on [achmadhadikurnia.com](https://achmadhadikurnia.com)
 - 💬 Ask me about **PHP, Laravel**
-- 📫 How to reach me **imachmadhadikurnia@gmail.com**
-- 📄 Know about my experiences [https://achmadhadikurnia.com/cv](https://achmadhadikurnia.com/cv)
+- 📫 How to reach me [linktr.ee/achmadhadikurnia](https://linktr.ee/achmadhadikurnia)
+- 📄 Know about my experiences [achmadhadikurnia.com/cv](https://achmadhadikurnia.com/cv)
 
 <h2 align="left">🚀 The projects I have created</h2>
 
